@@ -18,3 +18,10 @@ ul{
     padding: 0;
     list-style-type: none;
 }
+
+ul a {
+    width: 400px;
+    height: 40px;
+    display: block;
+    border: 1px solid red;
+}
