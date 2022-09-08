@@ -2,6 +2,13 @@
 Barra de navegação vertical */
 
 ul {
-    border: 1px solid red;
+    
     list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    padding: 20px;
+    border: 1px solid red;
 }
