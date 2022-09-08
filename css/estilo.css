@@ -11,4 +11,5 @@ ul {
 li {
     padding: 20px;
     border: 1px solid red;
+    background: url(../imagens/seta.png) no-repeat;
 }
