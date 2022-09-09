@@ -37,6 +37,8 @@ a:hover, .selecionado a {
     color: #FFF;
 }
 
-#home {
-    
+#home .home {
+    background-position: right bottom;
+    background-color: #f99200;
+    color: #FFF;
 }
