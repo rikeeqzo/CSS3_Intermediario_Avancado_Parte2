@@ -31,14 +31,17 @@ ul a {
     background: #f7b600 url(../imagens/menu.png) no-repeat left bottom;
 }
 
-a:hover, .selecionado a {
+a:hover {
     background-position: right bottom;
     background-color: #f99200;
     color: #FFF;
 }
 
 #home #navegacao .home a,
-#sobre #navegacao .sobre a
+#sobre #navegacao .sobre a,
+#contato #navegacao .contato a,
+#servicos #navegacao .servicos a,
+#noticias #navegacao .noticias a
 {
     background-position: right bottom;
     background-color: #f99200;
