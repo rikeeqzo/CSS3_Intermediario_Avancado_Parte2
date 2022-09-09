@@ -37,7 +37,9 @@ a:hover, .selecionado a {
     color: #FFF;
 }
 
-#home .home a{
+#home .home a,
+#sobre .sobre a
+{
     background-position: right bottom;
     background-color: #f99200;
     color: #FFF;
